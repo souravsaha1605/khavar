@@ -1,0 +1,48 @@
+@CHARSET "ISO-8859-1";
+@import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
+@import url('https://raw.githubusercontent.com/silviomoreto/bootstrap-select/master/dist/css/bootstrap-select.min.css');
+
+.left-sidebar{
+ margin-top:70px;
+
+}
+
+#img-logo{
+    width:30px;
+    height:30px;
+    }
+#jumbotron{
+    margin-top:70px;
+
+
+    }
+
+
+#datalist1{
+ padding:5px;
+ margin:6px;
+ width:200px;
+}
+
+.input-group-150 {
+    max-width: 250px;
+
+}
+
+.input-group-300 {
+    max-width: 300px;
+    width: 100%;
+}
+#searchlocation{
+    margin-top:-20px;
+    }
+
+
+.left-sidebar{
+ border:1px solid #ccc ;
+ border-width:3px;
+ padding:10px;
+ border-radius:5px;
+
+
+}
